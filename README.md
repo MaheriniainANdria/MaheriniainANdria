@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on ReactNative<br>🌱 I’m currently learning  React and PHP<br>⚡ Fun fact : I'm faster than 80% of all snakes
+🌱 I’m currently learning  React and Python<br>⚡ Fun fact : I'm faster than 80% of all snakes
 
 
 ## 🌐 Socials:
